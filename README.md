@@ -10,6 +10,9 @@
 ## What's the purpose
 Learn laravel, having an alternative to Django or Nodejs as web environments 
 
+## The future
+Not exists a certain fate to this site, it's just a way to learn a new technology without the preasure to make something very serious
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
