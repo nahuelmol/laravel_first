@@ -10,3 +10,7 @@ Route::get('/home', function () {
 Route::get('/aboutus',function () {
     return view('aboutus');
 });
+
+Route::get('/resources', function () {
+	return view('resources');
+});
